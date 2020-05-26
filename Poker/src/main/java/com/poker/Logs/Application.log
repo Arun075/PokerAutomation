@@ -1,0 +1,51 @@
+26/05/2020 18:06:13 devpinoyLogger Loading Property files
+26/05/2020 18:06:13 devpinoyLogger Loaded Property files successfully
+26/05/2020 18:06:16 devpinoyLogger Chrome Browser
+26/05/2020 18:06:17 devpinoyLogger ***********************TestCase  " SigninValidation "  starts executing ***********************
+26/05/2020 18:06:25 devpinoyLogger Opening the URL:http://52.25.195.6/
+26/05/2020 18:06:27 devpinoyLogger Clicking on Sign IN Link
+26/05/2020 18:06:27 devpinoyLogger ***** Data Driving from row no : 1 *****
+26/05/2020 18:06:27 devpinoyLogger Entering the EmailID : 
+26/05/2020 18:06:27 devpinoyLogger Entering the Password : 
+26/05/2020 18:06:27 devpinoyLogger Clicking on Submit Button
+26/05/2020 18:06:28 devpinoyLogger Actual Value is: Email address and password do not match. Please try again.---and the Expected Value is: Email address and password do not match. Please try again.
+26/05/2020 18:06:28 devpinoyLogger Asserted the actual and expected value
+26/05/2020 18:06:28 devpinoyLogger ***** Data Driving happened successfully from row no : 1 *****
+26/05/2020 18:06:28 devpinoyLogger ***** Data Driving from row no : 2 *****
+26/05/2020 18:06:28 devpinoyLogger Entering the EmailID : mavjaytest1@gmail.com
+26/05/2020 18:06:28 devpinoyLogger Entering the Password : 
+26/05/2020 18:06:28 devpinoyLogger Clicking on Submit Button
+26/05/2020 18:06:28 devpinoyLogger Actual Value is: Email address and password do not match. Please try again.---and the Expected Value is: Email address and password do not match. Please try again.
+26/05/2020 18:06:28 devpinoyLogger Asserted the actual and expected value
+26/05/2020 18:06:28 devpinoyLogger ***** Data Driving happened successfully from row no : 2 *****
+26/05/2020 18:06:28 devpinoyLogger ***** Data Driving from row no : 3 *****
+26/05/2020 18:06:28 devpinoyLogger Entering the EmailID : mavjay
+26/05/2020 18:06:28 devpinoyLogger Entering the Password : welcome
+26/05/2020 18:06:28 devpinoyLogger Clicking on Submit Button
+26/05/2020 18:06:28 devpinoyLogger Actual Value is: Email address and password do not match. Please try again.---and the Expected Value is: Email address and password do not match. Please try again.
+26/05/2020 18:06:28 devpinoyLogger Asserted the actual and expected value
+26/05/2020 18:06:29 devpinoyLogger ***** Data Driving happened successfully from row no : 3 *****
+26/05/2020 18:06:29 devpinoyLogger ***** Data Driving from row no : 4 *****
+26/05/2020 18:06:29 devpinoyLogger Entering the EmailID : mavjaytest123
+26/05/2020 18:06:29 devpinoyLogger Entering the Password : welcome
+26/05/2020 18:06:29 devpinoyLogger Clicking on Submit Button
+26/05/2020 18:06:29 devpinoyLogger Actual Value is: Email address and password do not match. Please try again.---and the Expected Value is: Email address and password do not match. Please try again.
+26/05/2020 18:06:29 devpinoyLogger Asserted the actual and expected value
+26/05/2020 18:06:29 devpinoyLogger ***** Data Driving happened successfully from row no : 4 *****
+26/05/2020 18:06:29 devpinoyLogger ***** Data Driving from row no : 5 *****
+26/05/2020 18:06:29 devpinoyLogger Entering the EmailID : mavjaytest1@gmail.com
+26/05/2020 18:06:29 devpinoyLogger Entering the Password : welcome1@
+26/05/2020 18:06:29 devpinoyLogger Clicking on Submit Button
+26/05/2020 18:06:29 devpinoyLogger Actual Value is: Email address and password do not match. Please try again.---and the Expected Value is: Email address and password do not match. Please try again.
+26/05/2020 18:06:29 devpinoyLogger Asserted the actual and expected value
+26/05/2020 18:06:29 devpinoyLogger ***** Data Driving happened successfully from row no : 5 *****
+26/05/2020 18:06:29 devpinoyLogger ***** Data Driving from row no : 6 *****
+26/05/2020 18:06:29 devpinoyLogger Entering the EmailID : 
+26/05/2020 18:06:30 devpinoyLogger Entering the Password : welcome
+26/05/2020 18:06:30 devpinoyLogger Clicking on Submit Button
+26/05/2020 18:06:30 devpinoyLogger Actual Value is: Email address and password do not match. Please try again.---and the Expected Value is: Email address and password do not match. Please try again.
+26/05/2020 18:06:30 devpinoyLogger Asserted the actual and expected value
+26/05/2020 18:06:30 devpinoyLogger ***** Data Driving happened successfully from row no : 6 *****
+26/05/2020 18:06:30 devpinoyLogger ***********************TestCase  " SigninValidation "  ends execution ***********************
+26/05/2020 18:06:30 devpinoyLogger SigninValidation TestCase is PASSED
+26/05/2020 18:06:30 devpinoyLogger Quits the session
